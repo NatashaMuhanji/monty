@@ -61,7 +61,7 @@ void call_fun(op_func, char *, char *, int, int);
 void print_stack_top(stack_t **, unsigned int);
 void pop_stack_top(stack_t **, unsigned int);
 void nope(stack_t **, unsigned int);
-void swap_nodes(stack_t **, unsigned int);
+void swapping_nodes(stack_t **, unsigned int);
 
 /*Math operations with nodes*/
 void adding_nodes(stack_t **, unsigned int);
